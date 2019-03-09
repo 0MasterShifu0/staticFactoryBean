@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/staticFactoryBean.iml" filepath="$PROJECT_DIR$/.idea/modules/staticFactoryBean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/staticFactoryBean_main.iml" filepath="$PROJECT_DIR$/.idea/modules/staticFactoryBean_main.iml" group="staticFactoryBean" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/staticFactoryBean_test.iml" filepath="$PROJECT_DIR$/.idea/modules/staticFactoryBean_test.iml" group="staticFactoryBean" />
+    </modules>
+  </component>
+</project>
